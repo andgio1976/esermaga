@@ -9,6 +9,7 @@
       "prezzo": 850.00
     },
     {
+      "foto":"https://static1.unieuro.it/medias/sys_master/root/hc3/h73/33692713222174/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-07660ec46c94251907c61a20ae5b65a8-preview-sgmConversionBaseFormat.jpg",
       "id": 2,
       "nome": "Mouse Wireless",
       "categoria": "Accessori",
@@ -16,6 +17,7 @@
       "prezzo": 25.00
     },
     {
+      "foto":"",
       "id": 3,
       "nome": "Tastiera Meccanica",
       "categoria": "Accessori",
@@ -23,6 +25,7 @@
       "prezzo": 60.00
     },
     {
+      "foto":"",
       "id": 4,
       "nome": "Smartphone",
       "categoria": "Elettronica",
@@ -30,6 +33,7 @@
       "prezzo": 599.99
     },
     {
+      "foto":"",
       "id": 5,
       "nome": "Stampante",
       "categoria": "Ufficio",
@@ -37,6 +41,7 @@
       "prezzo": 120.00
     },
     {
+      "foto":"",
       "id": 6,
       "nome": "Carta A4 (500 fogli)",
       "categoria": "Ufficio",
@@ -44,6 +49,7 @@
       "prezzo": 5.50
     },
     {
+      "foto":"",
       "id": 7,
       "nome": "Monitor 24\"",
       "categoria": "Elettronica",
@@ -51,21 +57,8 @@
       "prezzo": 180.00
     },
     {
+      "foto":"",
       "id": 8,
-      "nome": "Sedia Ergonomica",
-      "categoria": "Arredamento",
-      "quantita": 8,
-      "prezzo": 200.00
-    },
-    {
-      "id": 9,
-      "nome": "Zaino Porta PC",
-      "categoria": "Accessori",
-      "quantita": 25,
-      "prezzo": 45.00
-    },
-    {
-      "id": 10,
       "nome": "Auricolari Bluetooth",
       "categoria": "Accessori",
       "quantita": 40,
