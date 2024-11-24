@@ -17,7 +17,7 @@
       "prezzo": 25.00
     },
     {
-      "foto":"",
+      "foto":"https://static1.unieuro.it/medias/sys_master/root/h85/hb9/44141785677854/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-3b80230d90ee9d936bee69cd8088d9e3-preview-sgmConversionBaseFormat.jpg",
       "id": 3,
       "nome": "Tastiera Meccanica",
       "categoria": "Accessori",
@@ -25,7 +25,7 @@
       "prezzo": 60.00
     },
     {
-      "foto":"",
+      "foto":"https://static1.unieuro.it/medias/sys_master/root/hb1/h07/33690908622878/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-9741f153c3f1dd08bb4c70f862f88f00-preview-sgmConversionBaseFormat.jpg",
       "id": 4,
       "nome": "Smartphone",
       "categoria": "Elettronica",
@@ -33,7 +33,7 @@
       "prezzo": 599.99
     },
     {
-      "foto":"",
+      "foto":"https://static1.unieuro.it/medias/sys_master/root/h4c/had/34344154497054/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-72de51dd50e5824eeb5038035ad3d799-preview-sgmConversionBaseFormat.jpg",
       "id": 5,
       "nome": "Stampante",
       "categoria": "Ufficio",
@@ -41,7 +41,7 @@
       "prezzo": 120.00
     },
     {
-      "foto":"",
+      "foto":"https://static1.unieuro.it/medias/sys_master/root/ha6/h50/45319732101150/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-81d7f8fda6cbe3268d3632c1a8f13041-preview-sgmConversionBaseFormat.jpg",
       "id": 6,
       "nome": "Carta A4 (500 fogli)",
       "categoria": "Ufficio",
