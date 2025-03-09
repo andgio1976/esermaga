@@ -1,66 +1,66 @@
 [
     {
+        "codice":"AF223",
       "foto":"https://static1.unieuro.it/medias/sys_master/root/h50/h17/44927404015646/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-b43fd2e97ba4adf04674793ecff15d05-preview-sgmConversionBaseFormat.jpg",
       "id": 1,
       "nome": "Laptop",
       "categoria": "Elettronica",
-      "quantita": 15,
       "prezzo": 850.00
     },
     {
+        "codice":"AF423",
       "foto":"https://static1.unieuro.it/medias/sys_master/root/hc3/h73/33692713222174/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-07660ec46c94251907c61a20ae5b65a8-preview-sgmConversionBaseFormat.jpg",
       "id": 2,
       "nome": "Mouse Wireless",
       "categoria": "Accessori",
-      "quantita": 50,
       "prezzo": 25.00
     },
     {
+        "codice":"BF223",
       "foto":"https://static1.unieuro.it/medias/sys_master/root/h71/h45/33692115435550/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-60114a7c9fc8657d143ff5cdbd87f10d-preview-sgmConversionBaseFormat.jpg",
       "id": 3,
       "nome": "Tastiera Meccanica",
       "categoria": "Accessori",
-      "quantita": 30,
       "prezzo": 60.00
     },
     {
+                "codice":"AF265",
       "foto":"https://static1.unieuro.it/medias/sys_master/root/hb1/h07/33690908622878/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-9741f153c3f1dd08bb4c70f862f88f00-preview-sgmConversionBaseFormat.jpg",
       "id": 4,
       "nome": "Smartphone",
       "categoria": "Elettronica",
-      "quantita": 20,
       "prezzo": 599.99
     },
     {
+                "codice":"KF223",
       "foto":"https://static1.unieuro.it/medias/sys_master/root/h4c/had/34344154497054/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-72de51dd50e5824eeb5038035ad3d799-preview-sgmConversionBaseFormat.jpg",
       "id": 5,
       "nome": "Stampante",
       "categoria": "Ufficio",
-      "quantita": 10,
       "prezzo": 120.00
     },
     {
+                "codice":"AF90223",
       "foto":"https://static1.unieuro.it/medias/sys_master/root/haa/he6/46081144422430/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-a847c5a4c232e297e09858e8cd2cffc6-preview-sgmConversionBaseFormat.jpg",
       "id": 6,
       "nome": "Carta A4 (500 fogli)",
       "categoria": "Ufficio",
-      "quantita": 100,
       "prezzo": 5.50
     },
     {
+                "codice":"AF903",
       "foto":"https://static1.unieuro.it/medias/sys_master/root/hf3/hc2/33947542028318/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-4fca51f2dc4cb0f06ad2d849edfda764-preview-sgmConversionBaseFormat.jpg",
       "id": 7,
       "nome": "Monitor 24\"",
       "categoria": "Elettronica",
-      "quantita": 12,
       "prezzo": 180.00
     },
     {
+                "codice":"AF343",
       "foto":"https://static1.unieuro.it/medias/sys_master/root/h37/h5b/45527891345438/-api-rest-00ed29448a7522f610cac04d7b9ea7e0-assets-9da6a4123e00600999eb5aba02ca66d2-preview-sgmConversionBaseFormat.jpg",
       "id": 8,
       "nome": "Auricolari Bluetooth",
       "categoria": "Accessori",
-      "quantita": 40,
       "prezzo": 35.00
     }
   ]
